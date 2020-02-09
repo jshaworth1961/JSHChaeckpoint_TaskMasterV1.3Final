@@ -1,0 +1,143 @@
+/*
+{
+    outline:solid black;
+}
+*/
+
+.body-style {
+    background-color: steelblue;
+}
+
+.btn-garbagecan {
+    border-radius: 50%;
+    background-color: rgb(224, 207, 111);
+    margin-top: 5%;
+}
+
+.btn-garbagecan:hover {
+    background-color: red;
+}
+
+.btn-item {
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+.btn-item:hover {
+    background-color: green;
+}
+
+.btn-list:hover {
+    background-color: green;
+}
+
+.btn-list {
+    background-color: lightblue;
+    height: 2.5rem;
+    width: 15vw;
+    font-weight: bold;
+}
+
+.btn-list:hover {
+    background-color: green;
+}
+
+.btn-remove-task {
+    background-color: darkred;
+    color: slategray;
+    margin-left: 4vw;
+    margin-top: 1vh;
+}
+
+.btn-remove-task:hover {
+    background-color: red;
+}
+
+.fieldset-item {
+    display: flex;
+    justify-content: center;
+    background-color: slategray;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fieldset-list {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(194, 175, 69);
+    border: solid darkblue;
+    padding: .5em 1em 2em .5em;
+}
+
+.img-gcan {
+    height: 4vw;
+    border-radius: 50%;
+}
+
+.img-roadrunner {
+    height: 20vh;
+}
+
+.img-rr-wile {
+    height: 10vh;
+    margin-top: 5%;
+}
+
+.ipt-listname {
+    background-color: slategray;
+    font-weight: bold;
+    height: 2.7rem;
+    margin: 0.2rem;
+}
+
+.lbl-create {
+    background-color: lightseagreen;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.p-header {
+    display: flex;
+    justify-content: center;
+}
+
+.p-list-heading {
+    font-size: 2.3rem;
+    font-weight: bold;
+    margin-right: -5vw;
+    font-family: 'Ma Shan Zheng', cursive;
+}
+
+.p-list-title {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: steelblue;
+}
+
+.p-listed-items {
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: darkblue;
+    margin-top: 2%;
+}
+
+.p-rr-wile {
+    display: flex;
+    justify-content: left;
+}
+
+.p-title {
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    font-weight: bolder;
+    font-family: 'Ma Shan Zheng', cursive;
+}
